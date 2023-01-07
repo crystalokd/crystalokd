@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am glad you found your way to my github page 😄 **WELCOME**
 
 <!--
 **crystalokd/crystalokd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
