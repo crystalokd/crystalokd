@@ -1,6 +1,6 @@
 <!-- ![2](https://user-images.githubusercontent.com/68944153/211190684-62a44735-6a64-4aa6-915c-d15224852088.png) -->
 
-### Hi there 👋 I am glad you found your way to my github page 😄 *WELCOME*
+### SUP
 
 - 👀 I’m interested in backend web development with python and django
 - 💻 I am working on a [Mobile App](https://) using React Native, Apollo, Graphql, Neo4j, Node (Grand Stack).
